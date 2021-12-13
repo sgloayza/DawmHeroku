@@ -14,7 +14,7 @@ body {
 
 .sidebar {
   position: fixed;
-  top: 100px;
+  top: 0;
   /* rtl:raw:
   right: 0;
   */
