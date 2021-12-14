@@ -14,6 +14,7 @@ router.get('/', function(req, res, next) {
 
 module.exports = router;
 
+
 router.post('/validate', function(req, res, next) {
   let usuario = req.body.user;
   let contrasenia = req.body.password;
